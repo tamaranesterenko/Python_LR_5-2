@@ -1,0 +1,26 @@
+[
+    {
+        "surname": "Nesterenko",
+        "name": "Alisa",
+        "zodiac": "Deva",
+        "date_obj": "19.11.2012"
+    },
+    {
+        "surname": "Nesterenko",
+        "name": "Svetlana",
+        "zodiac": "Pyba",
+        "date_obj": "19.03.1980"
+    },
+    {
+        "surname": "Nesterenko",
+        "name": "Tamara",
+        "zodiac": "Oven",
+        "date_obj": "05.04.2002"
+    },
+    {
+        "surname": "Sviridov",
+        "name": "Maksim",
+        "zodiac": "Rak",
+        "date_obj": "17.01.2015"
+    }
+]
